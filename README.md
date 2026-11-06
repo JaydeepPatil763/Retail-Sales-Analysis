@@ -1,13 +1,17 @@
 # Retail-Sales-Analysis
 Interactive Retail Sales Dashboard using Microsoft Excel
 Retail Sales Analysis Dashboard | Microsoft Excel
+
 **Project Overview**
+
 This project focuses on analyzing retail sales data and presenting the
 results through an interactive dashboard built in Microsoft Excel. The
 objective was to turn raw sales data into clear business information
 that can help understand sales performance, profitability, customer
 activity, and product-category trends.
-**Tools and Excel Features Used**
+
+Tools and Excel Features Used:
+
 - Microsoft Excel
 - Data cleaning and preparation
 - Lookup formulas to bring customer and product details into the sales
@@ -17,7 +21,8 @@ activity, and product-category trends.
 - Slicers for interactive filtering
 - Custom number formatting to display large values in Crores (Cr)
 - Dashboard formatting and layout design
-**Data Preparation**
+  
+**Data Preparation**:
 The project started with separate sales and customer-related Excel data.
 The preparation work included:
 - Reviewing the source tables and understanding how they were related.
@@ -27,7 +32,9 @@ The preparation work included:
 - Bringing relevant customer details into the sales data using lookup
   and merge techniques.
 - Preparing the cleaned data for analysis.
-**Dashboard KPIs**
+ 
+**Dashboard KPIs**:
+  
 The dashboard presents these high-level metrics:
 - Total Cost -- overall cost associated with the sales.
 - Net Sales / Total Sales -- sales value after applicable
@@ -35,7 +42,9 @@ The dashboard presents these high-level metrics:
 - GST Amount -- total GST amount.
 - Total Profit -- overall profit generated.
 - Final Invoice -- invoice value including applicable GST.
-**Dashboard Analysis**
+  
+**Dashboard Analysis**:
+
 The dashboard includes visual analysis of:
 - Monthly Sales Trend -- tracks how net sales change across the
   months.
@@ -49,7 +58,9 @@ The dashboard includes visual analysis of:
   highest order counts.
 - Key Business Insights -- summarizes important findings from the
   analysis.
-**Interactive Filters**
+  
+**Interactive Filters**:
+
 Users can explore the dashboard using slicers for:
 - Month
 - State
@@ -58,7 +69,9 @@ Users can explore the dashboard using slicers for:
 - Customer Rating
 The slicers allow users to filter the dashboard and examine the data
 from different perspectives.
-**Key Business Insights**
+
+**Key Business Insights**:
+
 The analysis is designed to help identify:
 - The best-performing month based on net sales.
 - The category contributing the largest share of net sales.
@@ -67,7 +80,9 @@ The analysis is designed to help identify:
 - The customers with the highest number of orders.
 The specific values shown in the dashboard may change when slicers are
 used.
-**Project Outcome**
+
+**Project Outcome**:
+
 This project provided practical experience in preparing retail data,
 analyzing it with Excel, building PivotTable-based reports, creating
 interactive visualizations, and communicating business findings through
