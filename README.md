@@ -87,3 +87,6 @@ This project provided practical experience in preparing retail data,
 analyzing it with Excel, building PivotTable-based reports, creating
 interactive visualizations, and communicating business findings through
 a dashboard.
+## Dashboard Preview
+
+![Retail Sales Dashboard](DashboardImage.png)
